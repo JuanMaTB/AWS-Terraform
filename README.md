@@ -7,7 +7,7 @@
 My Profile:
 
 
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github/JuanMaTB)
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/JuanMaTB)
 
 
 ## What's this?
